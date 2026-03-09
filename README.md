@@ -24,7 +24,11 @@ It includes:
 - Joins  
 - Subqueries  
 - Constraints  
-- Database design concepts  
+- Database design concepts
+
+  <p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
+</p>
 
 ---
 
@@ -78,19 +82,6 @@ It includes:
 - FOREIGN KEY  
 - UNIQUE  
 - NOT NULL  
-
----
-
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
-</p>
-<br>
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="420"/>
-</p>
-
-
 
 ---
 
