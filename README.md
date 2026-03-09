@@ -81,19 +81,15 @@ It includes:
 
 ---
 
-# 🗄️ Database Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420"/>
 </p>
-
----
-
-# 📊 SQL Query Flow Animation
-
+<br>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="420"/>
 </p>
+
 
 ---
 
